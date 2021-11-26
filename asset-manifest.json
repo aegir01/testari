@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/testari/static/css/main.518ce94c.chunk.css",
-    "main.js": "/testari/static/js/main.b6e4cd90.chunk.js",
-    "main.js.map": "/testari/static/js/main.b6e4cd90.chunk.js.map",
+    "main.js": "/testari/static/js/main.5c42656c.chunk.js",
+    "main.js.map": "/testari/static/js/main.5c42656c.chunk.js.map",
     "runtime-main.js": "/testari/static/js/runtime-main.7c331fda.js",
     "runtime-main.js.map": "/testari/static/js/runtime-main.7c331fda.js.map",
-    "static/js/2.679b7e85.chunk.js": "/testari/static/js/2.679b7e85.chunk.js",
-    "static/js/2.679b7e85.chunk.js.map": "/testari/static/js/2.679b7e85.chunk.js.map",
+    "static/js/2.06eae70c.chunk.js": "/testari/static/js/2.06eae70c.chunk.js",
+    "static/js/2.06eae70c.chunk.js.map": "/testari/static/js/2.06eae70c.chunk.js.map",
     "index.html": "/testari/index.html",
     "static/css/main.518ce94c.chunk.css.map": "/testari/static/css/main.518ce94c.chunk.css.map",
-    "static/js/2.679b7e85.chunk.js.LICENSE.txt": "/testari/static/js/2.679b7e85.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/testari/static/media/logo.6ce24c58.svg"
+    "static/js/2.06eae70c.chunk.js.LICENSE.txt": "/testari/static/js/2.06eae70c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7c331fda.js",
-    "static/js/2.679b7e85.chunk.js",
+    "static/js/2.06eae70c.chunk.js",
     "static/css/main.518ce94c.chunk.css",
-    "static/js/main.b6e4cd90.chunk.js"
+    "static/js/main.5c42656c.chunk.js"
   ]
 }
