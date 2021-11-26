@@ -27,7 +27,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <Itemlist title="Vörulisti" items={data} />
+      <Itemlist title="Vörulisti í vinnslu - shibby yey" items={data} />
     </div>
   );
 }
