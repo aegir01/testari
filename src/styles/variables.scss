@@ -1,0 +1,18 @@
+// COMMON BREAKPOINTS: used for consistent measuring breakpoints
+// also used in <Grid /> component breakpoints
+$min-mobile: 480px;
+$mobile-x-width: 700px;
+$min-tablet: 800px; //720px;
+$min-desktop: 1080px;
+$min-wide: 1440px;
+
+$max-mobile: $min-mobile - 1px;
+$max-tablet: $min-tablet - 1px;
+$max-desktop: $min-desktop - 1px;
+$max-wide: $min-wide - 1px;
+
+// COLORS - these are also generated as :root css variables in global.scss
+
+// theme
+$color-primary: red;
+$color-secondary: blue;

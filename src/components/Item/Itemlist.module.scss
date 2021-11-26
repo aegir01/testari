@@ -1,0 +1,21 @@
+@import "../../styles/config.scss";
+
+.itemlist {
+  max-width: 1240px;
+  margin: 0 auto;
+
+  overflow: hidden;
+
+  &__wrap {
+    display: flex;
+    flex-wrap: wrap;
+
+    margin-right: -30px;
+
+    column-gap: 30px;
+    row-gap: 30px;
+  }
+
+  @media (max-width: $max-tablet) {
+  }
+}
